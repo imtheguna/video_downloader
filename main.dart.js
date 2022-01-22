@@ -56193,7 +56193,7 @@ F.rh.prototype={
 aO(){return new F.Ha(H.b(["assets/1.png","assets/2.png","assets/3.png"],t.i),C.o)}}
 F.Ha.prototype={
 b5(){this.by()},
-R(a7,a8){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/logo.png",h="Twin Brothers",g="Video\nDownloader",f="Download Any INSTA Post And IGTV\ud83d\ude80",e="Download Facebook post\ud83e\udd2a",d="Save Your Friends Statuses \ud83d\udcaa",c=" Cool and smooth UI design\ud83d\ude0e",b=4285553653,a=4290420479,a0=4294927779,a1=4294940325,a2=4294936650,a3=4294947706,a4="Youtube, Instagram, Facebook, Whatsapp",a5="Download APK",a6="v2.0.0"
+R(a7,a8){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/logo.png",h="Twin Brothers",g="Video\nDownloader",f="Download Any INSTA Post And IGTV\ud83d\ude80",e="Download Facebook post\ud83e\udd2a",d="Save Your Friends Statuses \ud83d\udcaa",c=" Cool and smooth UI design\ud83d\ude0e",b=4285553653,a=4290420479,a0=4294927779,a1=4294940325,a2=4294936650,a3=4294947706,a4="Youtube, Instagram, Facebook, Whatsapp",a5="Download APK",a6="v2.0.1"
 $.mi=a8.ad(t.w).f.a
 s=t.fQ
 r=R.a6d(!1,!0,T.fi(H.b([L.ac0("Privacy Policy",j,j,j,j,j,j,j,A.iB(j,j,C.ib,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j),new T.bd(5,j,j,j),L.aaB(C.zD,C.ib,13)],s),C.nW,C.ad),j,!0,j,j,j,j,j,j,j,j,j,new F.a0p(k),j)
